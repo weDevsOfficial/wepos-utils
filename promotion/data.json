@@ -1,18 +1,10 @@
 [
   {
-    "key": "wepos-test1",
-    "start_date": "2022-03-11 09:00:00 EST",
-    "end_date": "2022-11-30 23:00:00 EST",
-    "title": "Irresistible Black Friday & Cyber Monday Deals.",
-    "content": "Enjoy Flat 50% OFF on wePOS Pro.",
-    "link": "https://wedevs.com/wepos/pricing?utm_medium=text&utm_source=wordpress-wepos-BFCM2021"
+    "key": "wpdasboard-ninth-anniversary",
+    "start_date": "2022-03-14 08:00:00 EST",
+    "end_date": "2022-03-31 22:00:00 EST",
+    "title": "9 Years of Innovation & Success.",
+    "content": "Celebrate with Flat 50% OFF on wePOS Pro. Get Now",
+    "link": "https://wedevs.com/wepos/pricing?utm_medium=text&utm_source=wpdasboard-ninth-anniversary"
   },
-  {
-    "key": "wepos-test2",
-    "start_date": "2021-11-19 09:00:00 EST",
-    "end_date": "2021-11-30 23:00:00 EST",
-    "title": "Irresistible Black Friday & Cyber Monday Deals.",
-    "content": "Enjoy Flat 50% OFF on wePOS Pro.",
-    "link": "https://wedevs.com/wepos/pricing?utm_medium=text&utm_source=wordpress-wepos-BFCM2021"
-  }
 ]
